@@ -1,7 +1,7 @@
 #!/bin/bash
   
 directory=$1
-compression_algo=$2
+compression_algo=$2 #compression algo should be gzip or bzip2
 output_file=$3
 file_name=$output_file
 var1=.tar
