@@ -1,2 +1,2 @@
 # devops
-Devops scripts
+This repo contains basic devops operations.
